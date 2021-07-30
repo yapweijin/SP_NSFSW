@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Red Apple",
+    "price": 0.80,
+    "image": "https://github.com/yapweijin/SP_NSFSW/blob/main/images/apple.jpg"
+  },
+  {
+    "name": "Orange",
+    "price": 1,
+    "image":"https://github.com/yapweijin/SP_NSFSW/blob/main/images/orange.jpg"
+  },
+  {
+    "name": "Avocado",
+    "price": 2,
+    "image":"https://github.com/yapweijin/SP_NSFSW/blob/main/images/avocado.jpg"
+  },
+  {
+    "name":"Lettuce",
+    "price": 1.20,
+    "image": "https://github.com/yapweijin/SP_NSFSW/blob/main/images/lettuce.jpg"
+  },
+  {
+    "name": "Cai Xin",
+    "price": 1.10,
+    "image": "https://github.com/yapweijin/SP_NSFSW/blob/main/images/caixin.jpg"
+  },
+  {
+    "name": "Tomatoes",
+    "price": 0.90,
+    "image": "https://github.com/yapweijin/SP_NSFSW/blob/main/images/tomatoe.jpg"
+  },
+  {
+    "name": "Salmon",
+    "price": 5.50,
+    "image": "https://github.com/yapweijin/SP_NSFSW/blob/main/images/salmon.jpg"
+  },
+  {
+    "name": "Pork Belly",
+    "price": 4.50,
+    "image": "https://github.com/yapweijin/SP_NSFSW/blob/main/images/porkbelly.jpg"
+  },
+  {
+    "name": "Beef",
+    "price": 4.50,
+    "image": "https://github.com/yapweijin/SP_NSFSW/blob/main/images/beef.jpg"
+  }
+]
